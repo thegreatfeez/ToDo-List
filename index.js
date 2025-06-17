@@ -59,7 +59,7 @@ function taskFeed(){
         <i class="fa-solid fa-minus" data-del = "${task.uuid}"></i>
     </button>
 </div>
-`
+` 
         }
     })
     return feedsHTML
